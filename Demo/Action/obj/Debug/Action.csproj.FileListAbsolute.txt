@@ -1,0 +1,6 @@
+E:\我零0七\Demo\Demo\Action\bin\Debug\Action.exe.config
+E:\我零0七\Demo\Demo\Action\bin\Debug\Action.exe
+E:\我零0七\Demo\Demo\Action\bin\Debug\Action.pdb
+E:\我零0七\Demo\Demo\Action\obj\Debug\Action.csprojResolveAssemblyReference.cache
+E:\我零0七\Demo\Demo\Action\obj\Debug\Action.exe
+E:\我零0七\Demo\Demo\Action\obj\Debug\Action.pdb

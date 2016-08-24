@@ -1,0 +1,9 @@
+E:\我零0七\Demo\Demo\WinFormTest\bin\Debug\WinFormTest.exe
+E:\我零0七\Demo\Demo\WinFormTest\bin\Debug\WinFormTest.pdb
+E:\我零0七\Demo\Demo\WinFormTest\obj\Debug\WinFormTest.csprojResolveAssemblyReference.cache
+E:\我零0七\Demo\Demo\WinFormTest\obj\Debug\WinFormTest.Form1.resources
+E:\我零0七\Demo\Demo\WinFormTest\obj\Debug\WinFormTest.Properties.Resources.resources
+E:\我零0七\Demo\Demo\WinFormTest\obj\Debug\WinFormTest.csproj.GenerateResource.Cache
+E:\我零0七\Demo\Demo\WinFormTest\obj\Debug\WinFormTest.exe.licenses
+E:\我零0七\Demo\Demo\WinFormTest\obj\Debug\WinFormTest.exe
+E:\我零0七\Demo\Demo\WinFormTest\obj\Debug\WinFormTest.pdb

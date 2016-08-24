@@ -1,0 +1,6 @@
+E:\我零0七\Demo\Demo\Indexer\bin\Debug\Indexer.exe.config
+E:\我零0七\Demo\Demo\Indexer\bin\Debug\Indexer.exe
+E:\我零0七\Demo\Demo\Indexer\bin\Debug\Indexer.pdb
+E:\我零0七\Demo\Demo\Indexer\obj\Debug\Indexer.csprojResolveAssemblyReference.cache
+E:\我零0七\Demo\Demo\Indexer\obj\Debug\Indexer.exe
+E:\我零0七\Demo\Demo\Indexer\obj\Debug\Indexer.pdb

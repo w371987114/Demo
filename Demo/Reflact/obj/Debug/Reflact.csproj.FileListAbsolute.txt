@@ -1,0 +1,8 @@
+E:\我零0七\Demo\Demo\Reflact\bin\Debug\Reflact.exe.config
+E:\我零0七\Demo\Demo\Reflact\bin\Debug\Reflact.exe
+E:\我零0七\Demo\Demo\Reflact\bin\Debug\Reflact.pdb
+E:\我零0七\Demo\Demo\Reflact\obj\Debug\Reflact.csprojResolveAssemblyReference.cache
+E:\我零0七\Demo\Demo\Reflact\obj\Debug\Reflact.exe
+E:\我零0七\Demo\Demo\Reflact\obj\Debug\Reflact.pdb
+E:\我零0七\Demo\Demo\Reflact\obj\Debug\Reflact.IP.resources
+E:\我零0七\Demo\Demo\Reflact\obj\Debug\Reflact.csproj.GenerateResource.Cache

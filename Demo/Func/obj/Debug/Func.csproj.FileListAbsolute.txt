@@ -1,0 +1,6 @@
+E:\我零0七\Demo\Demo\Func\bin\Debug\Func.exe.config
+E:\我零0七\Demo\Demo\Func\bin\Debug\Func.exe
+E:\我零0七\Demo\Demo\Func\bin\Debug\Func.pdb
+E:\我零0七\Demo\Demo\Func\obj\Debug\Func.csprojResolveAssemblyReference.cache
+E:\我零0七\Demo\Demo\Func\obj\Debug\Func.exe
+E:\我零0七\Demo\Demo\Func\obj\Debug\Func.pdb

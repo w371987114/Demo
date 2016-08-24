@@ -1,0 +1,9 @@
+E:\我零0七\Demo\Demo\Test\bin\Debug\Test.exe.config
+E:\我零0七\Demo\Demo\Test\bin\Debug\Test.exe
+E:\我零0七\Demo\Demo\Test\bin\Debug\Test.pdb
+E:\我零0七\Demo\Demo\Test\obj\Debug\Test.exe
+E:\我零0七\Demo\Demo\Test\obj\Debug\Test.pdb
+E:\我零0七\Demo\Demo\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+E:\我零0七\Demo\Demo\Test\obj\Debug\Test.XtraForm1.resources
+E:\我零0七\Demo\Demo\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+E:\我零0七\Demo\Demo\Test\obj\Debug\Test.exe.licenses

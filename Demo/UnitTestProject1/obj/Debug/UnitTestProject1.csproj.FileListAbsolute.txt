@@ -1,0 +1,7 @@
+E:\我零0七\Demo\Demo\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+E:\我零0七\Demo\Demo\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+E:\我零0七\Demo\Demo\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+E:\我零0七\Demo\Demo\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+E:\我零0七\Demo\Demo\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+E:\我零0七\Demo\Demo\UnitTestProject1\bin\Debug\Test.exe
+E:\我零0七\Demo\Demo\UnitTestProject1\bin\Debug\Test.pdb
