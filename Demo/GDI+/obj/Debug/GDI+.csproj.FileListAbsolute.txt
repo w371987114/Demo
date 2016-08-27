@@ -1,0 +1,9 @@
+E:\我零0七\Demo\Demo\GDI+\bin\Debug\GDI+.exe.config
+E:\我零0七\Demo\Demo\GDI+\bin\Debug\GDI+.exe
+E:\我零0七\Demo\Demo\GDI+\bin\Debug\GDI+.pdb
+E:\我零0七\Demo\Demo\GDI+\obj\Debug\GDI+.csprojResolveAssemblyReference.cache
+E:\我零0七\Demo\Demo\GDI+\obj\Debug\GDI_.Form1.resources
+E:\我零0七\Demo\Demo\GDI+\obj\Debug\GDI_.Properties.Resources.resources
+E:\我零0七\Demo\Demo\GDI+\obj\Debug\GDI+.csproj.GenerateResource.Cache
+E:\我零0七\Demo\Demo\GDI+\obj\Debug\GDI+.exe
+E:\我零0七\Demo\Demo\GDI+\obj\Debug\GDI+.pdb
