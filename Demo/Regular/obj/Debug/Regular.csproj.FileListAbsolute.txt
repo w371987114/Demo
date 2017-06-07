@@ -1,0 +1,6 @@
+E:\我零0七\Demo\Demo\Regular\bin\Debug\Regular.exe.config
+E:\我零0七\Demo\Demo\Regular\bin\Debug\Regular.exe
+E:\我零0七\Demo\Demo\Regular\bin\Debug\Regular.pdb
+E:\我零0七\Demo\Demo\Regular\obj\Debug\Regular.exe
+E:\我零0七\Demo\Demo\Regular\obj\Debug\Regular.pdb
+E:\我零0七\Demo\Demo\Regular\obj\Debug\Regular.csprojResolveAssemblyReference.cache

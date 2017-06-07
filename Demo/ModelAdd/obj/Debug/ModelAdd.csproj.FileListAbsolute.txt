@@ -1,0 +1,6 @@
+E:\我零0七\Demo\Demo\ModelAdd\bin\Debug\ModelAdd.exe.config
+E:\我零0七\Demo\Demo\ModelAdd\bin\Debug\ModelAdd.exe
+E:\我零0七\Demo\Demo\ModelAdd\bin\Debug\ModelAdd.pdb
+E:\我零0七\Demo\Demo\ModelAdd\obj\Debug\ModelAdd.csprojResolveAssemblyReference.cache
+E:\我零0七\Demo\Demo\ModelAdd\obj\Debug\ModelAdd.exe
+E:\我零0七\Demo\Demo\ModelAdd\obj\Debug\ModelAdd.pdb

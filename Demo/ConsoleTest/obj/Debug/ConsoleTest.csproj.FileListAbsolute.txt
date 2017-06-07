@@ -1,0 +1,6 @@
+E:\我零0七\Demo\Demo\ConsoleTest\bin\Debug\ConsoleTest.exe.config
+E:\我零0七\Demo\Demo\ConsoleTest\bin\Debug\ConsoleTest.exe
+E:\我零0七\Demo\Demo\ConsoleTest\bin\Debug\ConsoleTest.pdb
+E:\我零0七\Demo\Demo\ConsoleTest\obj\Debug\ConsoleTest.csprojResolveAssemblyReference.cache
+E:\我零0七\Demo\Demo\ConsoleTest\obj\Debug\ConsoleTest.exe
+E:\我零0七\Demo\Demo\ConsoleTest\obj\Debug\ConsoleTest.pdb

@@ -1,0 +1,10 @@
+E:\我零0七\Demo\Demo\FormException\bin\Debug\FormException.exe.config
+E:\我零0七\Demo\Demo\FormException\bin\Debug\FormException.exe
+E:\我零0七\Demo\Demo\FormException\bin\Debug\FormException.pdb
+E:\我零0七\Demo\Demo\FormException\bin\Debug\log4net.dll
+E:\我零0七\Demo\Demo\FormException\bin\Debug\log4net.xml
+E:\我零0七\Demo\Demo\FormException\obj\Debug\FormException.csprojResolveAssemblyReference.cache
+E:\我零0七\Demo\Demo\FormException\obj\Debug\FormException.Properties.Resources.resources
+E:\我零0七\Demo\Demo\FormException\obj\Debug\FormException.csproj.GenerateResource.Cache
+E:\我零0七\Demo\Demo\FormException\obj\Debug\FormException.exe
+E:\我零0七\Demo\Demo\FormException\obj\Debug\FormException.pdb

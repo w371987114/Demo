@@ -1,0 +1,6 @@
+E:\我零0七\Demo\Demo\CollectionRemove\bin\Debug\CollectionRemove.exe.config
+E:\我零0七\Demo\Demo\CollectionRemove\bin\Debug\CollectionRemove.exe
+E:\我零0七\Demo\Demo\CollectionRemove\bin\Debug\CollectionRemove.pdb
+E:\我零0七\Demo\Demo\CollectionRemove\obj\Debug\CollectionRemove.csprojResolveAssemblyReference.cache
+E:\我零0七\Demo\Demo\CollectionRemove\obj\Debug\CollectionRemove.exe
+E:\我零0七\Demo\Demo\CollectionRemove\obj\Debug\CollectionRemove.pdb

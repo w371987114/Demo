@@ -21,6 +21,17 @@ namespace GDI_
 
         private void Form1_Paint(object sender, PaintEventArgs e)
         {
+            List<string[]> listid=new List<string[]>();
+            string[] list1={"1","2","3"};
+            string[] list2={"a","b","c"};
+            string[] list3 = { "A", "B", "C" };
+            listid.Add(list1);
+            listid.Add(list2);
+            listid.Add(list3);
+            string result = listid[2][2];
+
+            int week = DateTime.Now.DayOfYear;
+
             //画一个渐变的正方形
             Graphics g = e.Graphics;
             Rectangle rect = new Rectangle(50, 30, 100, 100);

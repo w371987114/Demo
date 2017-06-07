@@ -1,0 +1,6 @@
+E:\我零0七\Demo\Demo\StringFormate\bin\Debug\StringFormate.exe.config
+E:\我零0七\Demo\Demo\StringFormate\bin\Debug\StringFormate.exe
+E:\我零0七\Demo\Demo\StringFormate\bin\Debug\StringFormate.pdb
+E:\我零0七\Demo\Demo\StringFormate\obj\Debug\StringFormate.csprojResolveAssemblyReference.cache
+E:\我零0七\Demo\Demo\StringFormate\obj\Debug\StringFormate.exe
+E:\我零0七\Demo\Demo\StringFormate\obj\Debug\StringFormate.pdb

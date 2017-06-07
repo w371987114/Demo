@@ -1,0 +1,6 @@
+E:\我零0七\Demo\Demo\z-A\bin\Debug\z-A.exe.config
+E:\我零0七\Demo\Demo\z-A\bin\Debug\z-A.exe
+E:\我零0七\Demo\Demo\z-A\bin\Debug\z-A.pdb
+E:\我零0七\Demo\Demo\z-A\obj\Debug\z-A.csprojResolveAssemblyReference.cache
+E:\我零0七\Demo\Demo\z-A\obj\Debug\z-A.exe
+E:\我零0七\Demo\Demo\z-A\obj\Debug\z-A.pdb

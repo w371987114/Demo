@@ -1,0 +1,6 @@
+E:\我零0七\Demo\Demo\EnumDemo\bin\Debug\EnumDemo.exe.config
+E:\我零0七\Demo\Demo\EnumDemo\bin\Debug\EnumDemo.exe
+E:\我零0七\Demo\Demo\EnumDemo\bin\Debug\EnumDemo.pdb
+E:\我零0七\Demo\Demo\EnumDemo\obj\Debug\EnumDemo.exe
+E:\我零0七\Demo\Demo\EnumDemo\obj\Debug\EnumDemo.pdb
+E:\我零0七\Demo\Demo\EnumDemo\obj\Debug\EnumDemo.csprojResolveAssemblyReference.cache

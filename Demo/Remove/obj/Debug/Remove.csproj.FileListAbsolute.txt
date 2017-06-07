@@ -1,0 +1,6 @@
+E:\我零0七\Demo\Demo\Remove\bin\Debug\Remove.exe.config
+E:\我零0七\Demo\Demo\Remove\bin\Debug\Remove.exe
+E:\我零0七\Demo\Demo\Remove\bin\Debug\Remove.pdb
+E:\我零0七\Demo\Demo\Remove\obj\Debug\Remove.csprojResolveAssemblyReference.cache
+E:\我零0七\Demo\Demo\Remove\obj\Debug\Remove.exe
+E:\我零0七\Demo\Demo\Remove\obj\Debug\Remove.pdb
