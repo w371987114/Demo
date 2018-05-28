@@ -1,0 +1,8 @@
+E:\我零0七\Demo\Test\bin\Debug\netcoreapp1.1\Test.deps.json
+E:\我零0七\Demo\Test\bin\Debug\netcoreapp1.1\Test.runtimeconfig.json
+E:\我零0七\Demo\Test\bin\Debug\netcoreapp1.1\Test.runtimeconfig.dev.json
+E:\我零0七\Demo\Test\bin\Debug\netcoreapp1.1\Test.dll
+E:\我零0七\Demo\Test\bin\Debug\netcoreapp1.1\Test.pdb
+E:\我零0七\Demo\Test\obj\Debug\netcoreapp1.1\Test.AssemblyInfo.cs
+E:\我零0七\Demo\Test\obj\Debug\netcoreapp1.1\Test.dll
+E:\我零0七\Demo\Test\obj\Debug\netcoreapp1.1\Test.pdb

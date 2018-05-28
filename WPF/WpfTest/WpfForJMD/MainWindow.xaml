@@ -1,0 +1,50 @@
+﻿<dx:DXWindow 
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfForJMD"
+        xmlns:dxe="http://schemas.devexpress.com/winfx/2008/xaml/editors"
+        xmlns:dx="http://schemas.devexpress.com/winfx/2008/xaml/core"
+        xmlns:dxsch="http://schemas.devexpress.com/winfx/2008/xaml/scheduler"
+        xmlns:dxb="http://schemas.devexpress.com/winfx/2008/xaml/bars" xmlns:dxnav="http://schemas.devexpress.com/winfx/2008/xaml/navigation"
+        x:Class="WpfForJMD.MainWindow"
+        mc:Ignorable="d"
+        Title="计算For焦梦蝶" Height="342" Width="604" WindowStartupLocation="CenterScreen">
+    <dxb:BarManager ToolbarGlyphSize="Default" Name="BarManager" Grid.ColumnSpan="2">
+        <dxb:BarManager.Bars>
+            <dxb:Bar x:Name="BarMenu" Caption="bar1" IsMainMenu="True">
+                <dxb:Bar.DockInfo>
+                    <dxb:BarDockInfo ContainerType="Top"/>
+                </dxb:Bar.DockInfo>
+                <dxb:BarSubItem x:Name="BarSets" Content="选项" LargeGlyph="{dx:DXImage Image=Technology_32x32.png}" Glyph="{dx:DXImage Image=Technology_16x16.png}" BarItemDisplayMode="Default"/>
+                <dxb:BarSubItem x:Name="BarInfo" Content="关于" LargeGlyph="{dx:DXImage Image=FindCustomers_32x32.png}" Glyph="{dx:DXImage Image=FindCustomers_16x16.png}"/>
+            </dxb:Bar>
+            <dxb:Bar x:Name="statusBar" Caption="Status Bar" IsStatusBar="True">
+                <dxb:Bar.DockInfo>
+                    <dxb:BarDockInfo ContainerType="Bottom"/>
+                </dxb:Bar.DockInfo>
+            </dxb:Bar>
+        </dxb:BarManager.Bars>
+        <Grid Margin="0,-2,0,-5">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="160*"/>
+                <ColumnDefinition Width="175*"/>
+                <ColumnDefinition Width="259*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="90*"/>
+                <RowDefinition Height="Auto" MinHeight="39"/>
+                <RowDefinition Height="121*"/>
+            </Grid.RowDefinitions>
+            <dxe:TextEdit x:Name="TextEnd" HorizontalAlignment="Left" Height="23" Margin="65,2,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" Mask="f" AutomationProperties.HelpText="123" NullText="月末度数" IsReadOnly="False" Grid.ColumnSpan="2" Grid.Row="1"/>
+            <dxe:TextEdit x:Name="TextStart" HorizontalAlignment="Left" Height="23" Margin="42,2,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" Mask="f" MaskType="Numeric" NullText="月初度数" KeyDown="TextStart_KeyDown" Grid.Column="1" Grid.Row="1"/>
+            <dxe:TextEdit x:Name="TextWaterCost" HorizontalAlignment="Left" Height="23" Margin="57,2,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" Mask="c" MaskType="Numeric" NullText="水费" Grid.Column="2" Grid.Row="1"/>
+            <Label x:Name="LblCut" Content="-" HorizontalAlignment="Left" Margin="31,4,0,0" VerticalAlignment="Top" Grid.Column="1" Height="15" Grid.Row="1" Width="5"/>
+            <Label x:Name="LblLeftBracket" Content="（" HorizontalAlignment="Left" Margin="51,4,0,0" VerticalAlignment="Top" Height="15" Grid.Row="1" Width="12"/>
+            <Label x:Name="LblRightBracket" Content="）X" HorizontalAlignment="Left" Margin="167,4,0,0" VerticalAlignment="Top" Grid.Column="1" Grid.ColumnSpan="2" Height="15" Grid.Row="1" Width="20"/>
+            <Label x:Name="LblRate" Content="4" HorizontalAlignment="Left" Margin="19,4,0,0" VerticalAlignment="Top" Grid.Column="2" Height="15" Grid.Row="1" Width="7"/>
+            <Label x:Name="LblEquls" Content="=" HorizontalAlignment="Left" Margin="35,3,0,0" VerticalAlignment="Top" Grid.Column="2" Height="15" Grid.Row="1" Width="9"/>
+        </Grid>
+    </dxb:BarManager>
+</dx:DXWindow>

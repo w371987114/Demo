@@ -4,6 +4,7 @@ using System.Linq;
 using System.Windows.Forms;
 using System.Text;
 using System.Data.Common;
+using System.Diagnostics;
 using System.Windows.Forms;
 
 namespace FormException
@@ -24,7 +25,15 @@ namespace FormException
             AppDomain.CurrentDomain.UnhandledException += new UnhandledExceptionEventHandler(CurrentDomain_UnhandledException);
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+
+            try
+            {
+                Application.Run(new Form1());
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
         }
         /// <summary>
         /// 处理UI线程异常
@@ -48,9 +57,42 @@ namespace FormException
         {
             //LogHelper.ErrorLog(null, e.ExceptionObject as Exception);
             var ex = e.ExceptionObject as Exception;
-            string errorMsg = string.Format("【异常类型】：{0} <br>【异常信息】：{1} <br>【堆栈调用】：{2}", new object[] { ex.GetType().Name, ex.Message, ex.StackTrace });
+            //stri?ng errorMsg = string.Format("【异常类型】：{0} <br>【异常信息】：{1} <br>【堆栈调用】：{2}", new object[] { ex.GetType().Name, ex.Message, ex.StackTrace });
 
+
+            try
+            {
+               
+                string errorMsg = "An application error occurred. Please contact the adminstrator " +
+                    "with the following information:\n\n";
+
+                // Since we can't prevent the app from terminating, log this to the event log.
+                if (!EventLog.SourceExists("ThreadException"))
+                {
+                    EventLog.CreateEventSource("ThreadException", "Application");
+                }
+
+                // Create an EventLog instance and assign its source.
+                EventLog myLog = new EventLog();
+                myLog.Source = "ThreadException";
+                myLog.WriteEntry(errorMsg + ex.Message + "\n\nStack Trace:\n" + ex.StackTrace);
+                MessageBox.Show("异常已被处理");
+            }
+            catch (Exception exc)
+            {
+                try
+                {
+                    MessageBox.Show("Fatal Non-UI Error",
+                        "Fatal Non-UI Error. Could not write the error to the event log. Reason: "
+                        + exc.Message, MessageBoxButtons.OK, MessageBoxIcon.Stop);
+                }
+                finally
+                {
+                    Application.Exit();
+                }
+            }
             Console.WriteLine("异常已被处理");
+
         }
     }
 }

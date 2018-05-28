@@ -1,5 +1,6 @@
 ﻿using System;
 using System.IO;
+using System.Text.RegularExpressions;
 
 namespace ConsoleTest
 {
@@ -7,24 +8,21 @@ namespace ConsoleTest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(@"请输入密码：");
-            var result = string.Empty;
-            while (true)
+            int sum = 0;
+            int i = 1;
+            while (i <= 100)
             {
-                var input=Console.ReadKey(true);
-                if (input.Key == ConsoleKey.Enter)
+                if ((i % 7) == 0)
                 {
-                    Console.WriteLine();
-                    Console.WriteLine("输入完成");
-                    break;
+                    i++;
+                    continue;
                 }
-                result += input.KeyChar;
-                Console.Write("*");
+                sum = sum + i;
+                i++;
             }
-            Console.WriteLine("输入的密码为：");
-            Console.WriteLine(result);
+            Console.WriteLine("{0}", sum);
             Console.ReadKey();
-            
+
         }
     }
 }

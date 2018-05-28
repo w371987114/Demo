@@ -1,0 +1,14 @@
+﻿<dx:DXWindow x:Name="WPFInfo1"
+    x:Class="WpfForJMD.WPFInfo"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:dx="http://schemas.devexpress.com/winfx/2008/xaml/core"
+    Title=" 关于" Height="182" Width="399" WindowStartupLocation="CenterScreen" WindowStyle="ToolWindow" Icon="{dx:DXImage Image=FindCustomers_16x16.png}" BorderEffect="None" IsAeroMode="False"
+    >
+
+    <Grid Margin="0,0,28,162">
+        <Label x:Name="LblAuthor" Content="Create By 我零0七 For 焦梦蝶" HorizontalAlignment="Left" Height="30" Margin="50,30,0,-60" VerticalAlignment="Top"/>
+        <Label x:Name="LblVersion" Content="版本：V1.0.0" HorizontalAlignment="Left" Height="25" Margin="50,70,0,-95" VerticalAlignment="Top" Width="163"/>
+
+    </Grid>
+</dx:DXWindow>
